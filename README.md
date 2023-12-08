@@ -1,4 +1,4 @@
-# randomColorGeneratorJS
+# randomColorGenerator
 
 This project is a part of the LEARN JAVASCRIPT course from Codecademy.
 
